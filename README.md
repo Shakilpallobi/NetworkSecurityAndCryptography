@@ -258,12 +258,3 @@ Dynamic key distribution
 
 ---
 
-If you want, I can also generate:
-
-✅ GitHub badges  
-✅ Architecture diagrams  
-✅ Crypto process diagrams  
-✅ Report-style README  
-✅ Security workflow charts  
-
-Just say the word 😊
