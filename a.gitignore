@@ -1,0 +1,34 @@
+/target/
+pom.xml.tag
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# *** CRYPTOGRAPHY SECURITY WARNING ***
+# NEVER commit private keys or sensitive data to a public repository.
+# The third-party service *must* never have access to these files.
+# DO NOT COMMIT PRIVATE KEYS.
+*_private.key
+# Generated public keys can be committed IF they are meant to be shared,
+# but excluding them is safer for an academic scenario.
+*_public.key
+thirdparty_private.key
+thirdparty_public.key
+
+# Generated temporary files
+*.secured
+*.json
+
+# Generated documentation/reports
+REPORT.md
+README.md
+PRESENTATION.pptx
+PRESENTATION.pdf
+VIDEO.url
